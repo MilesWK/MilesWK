@@ -1,9 +1,3 @@
-Hi! I program!
+Hello! This is where a typical programmer will tell how great they are and how they are insane at what they do and such. I won't brag here. All my bragging is in my programs and repositories... 
 
-***→Replit***: https://replit.com/@MilesWK
-
-***→My favorite project***: https://replit.com/@MilesWK/PySearch-Search-Engine
-
-***→Scratch***: https://scratch.mit.edu/users/MilesWK/
-
-~~***-------------------------------------------------------------------------------------------------------------------------------------------------------------***~~
+**CHECK ME OUT ON REPLIT AND SCRATCH** (both under MilesWK)
