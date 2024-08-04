@@ -4,11 +4,13 @@
 
 ✈️ I am in the [Civil Air Patrol Cadet Program](https://www.gocivilairpatrol.com/)
 
-🕹️ Play My Game: https://worlds-hardest-game.glitch.me/
+🕹️ Play My Game: [https://worlds-hardest-game.glitch.me/](The World's Hardest Game)
 
-🔗 Check out my website: https://mileswk.glitch.me/
+🔗 Check out my website: [https://mileswk.glitch.me/](MilesWK)
 
-📦 I made my first python package: https://pypi.org/project/texttoolspy/
+🤖 Chat with my discord bot: [https://jonah-bot.glitch.me](Jonah AI Discord Bot)
+
+📦 I made my first python package: [https://pypi.org/project/texttoolspy/](texttoolspy)
 ---
 ### Where to find me:
 
