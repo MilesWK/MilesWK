@@ -1,4 +1,5 @@
 **Featured Note:** Check out [Jonah, My AI Discord Bot!](https://jonah-bot.glitch.me) By adding him to your server, you support me by giving me someone to work for!
+
 ---
 
 
