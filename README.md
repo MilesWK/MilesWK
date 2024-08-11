@@ -1,5 +1,5 @@
 **Featured Note:** Check out [Jonah, My AI Discord Bot!](https://jonah-bot.glitch.me) By adding him to your server, you support me by giving me someone to work for!
----------------
+---
 
 
 > "The fun about being a devloper is if you don't have something you want, you can create it."   —MilesWK
