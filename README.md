@@ -15,7 +15,7 @@ Hello 👋! I am [MilesWK](https://mileswk.glitch.me/), a emoji-loving programme
   With each version of my website, the UI and overall website gets better and better. This is version seven, and I will be showing the legacy versions sometime in the future.
 
 **Contact information 📫:**
-There is no offical email or form of contact method for me. You can reach out to me via Github Discussions, or through the Glitch or Replit forums, but those are the only options. I hope someday in the future this will change, but right now, that is how it stands. 
+Want to talk to me? Do it [here](https://github.com/MilesWK/MilesWK/discussions/), on my offical Github Discussions page!
 
 **Links 🔗:**
 - Website: https://mileswk.glitch.me/
