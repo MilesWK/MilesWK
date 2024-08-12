@@ -1,30 +1,29 @@
-**Featured Note:** Check out [Jonah, My AI Discord Bot!](https://jonah-bot.glitch.me) By adding him to your server, you support me by giving me someone to work for!
-
----
-
-
+# MilesWK's ReadMe
 > "The fun about being a devloper is if you don't have something you want, you can create it."   —MilesWK
----
-# Hello! :wave:
 
-**I am [MilesWK](https://mileswk.glitch.me/)**
+![](https://raw.githubusercontent.com/MilesWK/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MilesWK/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-✈️ I am in the [Civil Air Patrol Cadet Program](https://www.gocivilairpatrol.com/)
+Hello 👋! I am [MilesWK](https://mileswk.glitch.me/), a emoji-loving programmer and musician who lives on planet earth!* Fun fact: I love school! My favorite subject is math! My favorite programming language is Python! I even created an [AI Discord Bot Named Jonah](https://jonah-bot.glitch.me/) with Python that is currently live!
 
-🕹️ Play My Game: [The World's Hardest Game](https://worlds-hardest-game-mileswk.glitch.me/)
+**Top Projects 💻:**
+- [Jonah Discord bot (https://jonah-bot.glitch.me)](https://jonah-bot.glitch.me) 🐷
+  Jonah is an AI Discord bot allowing users to talk with the bot in a direct message setting or mentioning (@) the bot in a server! Jonah also has slash commands for things such as giving random jokes!
+- [Texttoolspy Python Module (https://github.com/MilesWK/texttoolspy)](https://github.com/MilesWK/texttoolspy) 📦
+  Texttoolspy is more of a test module, that allows users to implement tools such as interactive menus and typewriter style text animation inside python projects without any hastle. This was my first python modules and isn't very good, but still has some potental.
+- [My Website (https://mileswk.glitch.me)](https://mileswk.glitch.me). 🙂
+  With each version of my website, the UI and overall website gets better and better. This is version seven, and I will be showing the legacy versions sometime in the future.
 
-🔗 Check out my website: [MilesWK](https://mileswk.glitch.me/)
+**Contact information 📫:**
+There is no offical email or form of contact method for me. You can reach out to me via Github Discussions, or through the Glitch or Replit forums, but those are the only options. I hope someday in the future this will change, but right now, that is how it stands. 
 
-🤖 Chat with my discord bot: [Jonah AI Discord Bot](https://jonah-bot.glitch.me)
+**Links 🔗:**
+- Website: https://mileswk.glitch.me/
+- Glitch Profile: https://glitch.com/@MilesWK
+- Scratch: https://scratch.mit.edu/users/MilesWK
 
-📦 I made my first python package: [texttoolspy](https://pypi.org/project/texttoolspy/)
+Hope you like what I make!
 
----
-### Where to find me:
 
-- [Glitch](https://glitch.com/@MilesWK) (MilesWK): Websites, games, html stuff
-- [Scratch](scratch.mit.edu/users/MilesWK/) (MilesWK): Animations, some programs
-- [PyPi](https://pypi.org/user/MilesWK/) (MilesWK): Python packages
-- [Replit](https://replit.com/@MilesWK) (MilesWK): I don't program on this anymore. Some python projects. Legacy.
 
-That's me!
+*<sub>*Or do I?..</sub>*
