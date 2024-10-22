@@ -1,4 +1,4 @@
-![MilesWK Header (2)](https://github.com/user-attachments/assets/981a32be-1e59-44ea-aeba-7a7bb31d6b81)
+![MilesWK Logo - Banner](https://github.com/user-attachments/assets/1dc0272a-4b75-427e-9631-20fb35726c7a)
 > "The fun about being a devloper is if you don't have something you want, you can create it."   —MilesWK
 
 ![](https://raw.githubusercontent.com/MilesWK/github-stats/master/generated/languages.svg#gh-dark-mode-only)
