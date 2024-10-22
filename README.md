@@ -18,7 +18,7 @@ Hello 👋! I am [MilesWK](https://mileswk.glitch.me/), a emoji-loving programme
 Want to talk to me? Do it [here](https://github.com/MilesWK/MilesWK/discussions/), on my offical Github Discussions page!
 
 **Links 🔗:**
-- Website: https://mileswk.glitch.me/
+- Website: https://www.mileswk.com/
 - Glitch Profile: https://glitch.com/@MilesWK
 - Scratch: https://scratch.mit.edu/users/MilesWK
 
