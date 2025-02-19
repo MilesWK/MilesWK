@@ -1,10 +1,14 @@
-![Banner)](https://github.com/user-attachments/assets/24509365-abf2-4824-a39c-863474b95551)
-> "The fun about being a devloper is if you don't have something you want, you can create it."   —MilesWK
+![MilesWK Banner](https://github.com/user-attachments/assets/a738e597-ed8c-42b0-9377-b061b0abce60)
+
+> "Being a developer is great, because you don't have to depend on someone else to create something you want, you can just do it yourself."
+> — MilesWK
 
 ![](https://raw.githubusercontent.com/MilesWK/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MilesWK/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 Hello 👋! I am [MilesWK](https://mileswk.com/), a emoji-loving programmer and musician who lives on planet earth! Fun fact: I love school! My favorite subject is math! My favorite programming language is Python! I even created an [AI Discord Bot Named Jonah](https://jonah.mileswk.com/) with Python that is currently live!
+
+**Check out my [blog](https://blog.mileswk.com) to see what I have been up to!**
 
 **Top Projects 💻:**
 - [Jonah Discord bot](https://jonah.mileswk.com) 🐷
@@ -18,9 +22,7 @@ Hello 👋! I am [MilesWK](https://mileswk.com/), a emoji-loving programmer and 
 Want to talk to me? Do it [here](https://github.com/MilesWK/MilesWK/discussions/), on my offical Github Discussions page!
 
 --------------
-**Announcement**
-I have started [ReplitConnections](https://github.com/ReplitConnections/): a GitHub profile dedicated to reconnecting the members of the former Replit Community! If this is you, [head on over!](https://github.com/ReplitConnections/ReplitConnections/)
-
+I would *love* to work with you! I am great in HTML, CSS, and JavaScript! Let me know on my discussion page! :)
 --------
 
 Copyright (c) 2025: MilesWK Studios. All Rights Reserved. 👍
