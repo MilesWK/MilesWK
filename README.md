@@ -15,7 +15,7 @@ Hello 👋! I am [MilesWK](https://mileswk.com/), a emoji-loving programmer and 
   Jonah is an AI Discord bot allowing users to talk with the bot in a direct message setting or mentioning (@) the bot in a server! Jonah also has slash commands for things such as giving random jokes!
 - [DiscoForge Python Module](https://github.com/MilesWK/DiscoForge) 🔨
   DiscoForge allows you to create Discord bots super quickly and easily, without any hassle, and without any ads.
-- [My Website (https://mileswk.com)](https://mileswk.com). 🙂
+- [My Website](https://mileswk.com). 🙂
   Learn all about me! I used GSAP, HTML, CSS, and JS to make this website!
   
 **Contact information 📫:**
