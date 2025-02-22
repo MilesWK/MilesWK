@@ -25,5 +25,6 @@ Want to talk to me? Do it [here](https://github.com/MilesWK/MilesWK/discussions/
 I would *love* to work with you! I am great in HTML, CSS, and JavaScript! Let me know on my discussion page! :)
 
 --------
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 Copyright (c) 2025: MilesWK Studios. All Rights Reserved. 👍
