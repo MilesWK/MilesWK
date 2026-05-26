@@ -19,7 +19,7 @@ Hello 👋! I am [MilesWK](https://mileswk.com/), a emoji-loving programmer and 
   Learn all about me! I used GSAP, HTML, CSS, and JS to make this website!
   
 **Contact information 📫:**
-Want to talk to me? Do it [here](https://github.com/MilesWK/MilesWK/discussions/), on my offical Github Discussions page!
+Want to talk to me? Do it [here](https://github.com/MilesWK/MilesWK/discussions/) or email `hi@mileswk.com`
 
 --------------
 I would *love* to work with you! I am great in HTML, CSS, and JavaScript! Let me know on my discussion page! :)
