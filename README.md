@@ -2,10 +2,13 @@
 
 > "Being a developer is great, because you don't have to depend on someone else to create something you want, you can just do it yourself."
 > — MilesWK
-
+<div align=center>
+  
 ![](https://raw.githubusercontent.com/MilesWK/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MilesWK/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=24319&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
+
+</div>
 Hello 👋! I am [MilesWK](https://mileswk.com/), a emoji-loving programmer and musician who lives on planet earth! Fun fact: I love school! My favorite subject is math! My favorite programming language is Python! I even created an [AI Discord Bot Named Jonah](https://jonah.mileswk.com/) with Python that is currently live!
 
 **Check out my [blog](https://blog.mileswk.com) to see what I have been up to!**
