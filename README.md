@@ -23,9 +23,8 @@ Hello 👋! I am [MilesWK](https://mileswk.com/), a emoji-loving programmer and 
 Want to talk to me? Do it [here](https://github.com/MilesWK/MilesWK/discussions/) or email `hi@mileswk.com`
 
 --------------
-I would *love* to work with you! I am great in HTML, CSS, and JavaScript! Let me know on my discussion page! :)
+I would *love* to work with you! I am great in HTML, CSS, and JavaScript! Let me know at `hi[at]mileswk[dot]com
 
 --------
-[![GitHub Streak](https://streak-stats.demolab.com?user=MilesWK&theme=hacker&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 Copyright (c) 2025: MilesWK Studios. All Rights Reserved. 👍
