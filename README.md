@@ -3,9 +3,7 @@
 > "Being a developer is great, because you don't have to depend on someone else to create something you want, you can just do it yourself."
 > — MilesWK
 <div align=center>
-  
-![](https://raw.githubusercontent.com/MilesWK/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MilesWK/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=24319&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
 
 </div>
