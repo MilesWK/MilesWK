@@ -18,12 +18,10 @@ Hello 👋! I am [MilesWK](https://mileswk.com/), a emoji-loving programmer and 
   DiscoForge allows you to create Discord bots super quickly and easily, without any hassle, and without any ads.
 - [My Website](https://mileswk.com). 🙂
   Learn all about me! I used GSAP, HTML, CSS, and JS to make this website!
-  
-**Contact information 📫:**
-Want to talk to me? Do it [here](https://github.com/MilesWK/MilesWK/discussions/) or email `hi@mileswk.com`
+
 
 --------------
-I would *love* to work with you! I am great in HTML, CSS, and JavaScript! Let me know at `hi[at]mileswk[dot]com`
+I would *love* to work with you! I am great in Python, HTML, CSS, and JavaScript! Let me know at `hi[at]mileswk[dot]com`
 
 --------
 
