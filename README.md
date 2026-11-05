@@ -23,7 +23,7 @@ Hello 👋! I am [MilesWK](https://mileswk.com/), a emoji-loving programmer and 
 Want to talk to me? Do it [here](https://github.com/MilesWK/MilesWK/discussions/) or email `hi@mileswk.com`
 
 --------------
-I would *love* to work with you! I am great in HTML, CSS, and JavaScript! Let me know at `hi[at]mileswk[dot]com
+I would *love* to work with you! I am great in HTML, CSS, and JavaScript! Let me know at `hi[at]mileswk[dot]com`
 
 --------
 
